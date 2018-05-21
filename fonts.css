@@ -1,0 +1,163 @@
+/* Meera */
+
+@font-face {
+	font-family: 'Meera';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Meera-Regular.woff2?v=7.0) format('woff2'), url(fonts/Meera-Regular.woff?v=7.0) format('woff'), url(fonts/Meera-Regular.ttf?v=7.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Rachana */
+
+@font-face {
+	font-family: 'Rachana';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Rachana-Regular.woff2?v=7.0) format('woff2'), url(fonts/Rachana-Regular.woff?v=7.0) format('woff'), url(fonts/Rachana-Regular.ttf?v=7.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Rachana Bold*/
+
+@font-face {
+	font-family: 'Rachana';
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/Rachana-Bold.woff2?v=2.0) format('woff2'), url(fonts/Rachana-Bold.woff?v=2.0) format('woff'), url(fonts/Rachana-Bold.ttf?v=2.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+
+/* Manjari */
+
+@font-face {
+	font-family: 'Manjari';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Manjari-Regular.woff2?v=1.0) format('woff2'), url(fonts/Manjari-Regular.woff?v=1.0) format('woff'), url(fonts/Manjari-Regular.ttf?v=1.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Manjari Bold*/
+
+@font-face {
+	font-family: 'Manjari';
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/Manjari-Bold.woff2?v=1.0) format('woff2'), url(fonts/Manjari-Bold.woff?v=1.0) format('woff'), url(fonts/Manjari-Bold.ttf?v=1.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Manjari Thin*/
+
+@font-face {
+	font-family: 'Manjari';
+	font-style: normal;
+	font-weight: 100;
+	src: url(fonts/Manjari-Thin.woff2?v=1.0) format('woff2'), url(fonts/Manjari-Thin.woff?v=1.0) format('woff'), url(fonts/Manjari-Thin.ttf?v=1.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* AnjaliOldLipi */
+
+@font-face {
+	font-family: 'AnjaliOldLipi';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/AnjaliOldLipi-Regular.woff2?v=7.0) format('woff2'), url(fonts/AnjaliOldLipi-Regular.woff?v=7.0) format('woff'), url(fonts/AnjaliOldLipi-Regular.ttf?v=7.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Dyuthi */
+
+@font-face {
+	font-family: 'Dyuthi';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Dyuthi-Regular.woff2?v=2.0) format('woff2'), url(fonts/Dyuthi-Regular.woff?v=2.0) format('woff'), url(fonts/Dyuthi-Regular.ttf?v=2.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Chilanka */
+
+@font-face {
+	font-family: 'Chilanka';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Chilanka-Regular.woff2?v=1.2.0) format('woff2'), url(fonts/Chilanka-Regular.woff?v=1.2.0) format('woff'), url(fonts/Chilanka-Regular.ttf?v=1.2.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* RaghuMalayalamSans */
+
+@font-face {
+	font-family: 'RaghuMalayalam';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/RaghuMalayalamSans-Regular.woff2?v=2.1.1) format('woff2'), url(fonts/RaghuMalayalamSans-Regular.woff?v=2.1.1) format('woff'), url(fonts/RaghuMalayalamSans-Regular.ttf?v=2.1.1) format('truetype');
+	unicode-range: U+0000-02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Suruma */
+
+@font-face {
+	font-family: 'Suruma';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Suruma.woff2?v=1.0.0-beta) format('woff2'), url(fonts/Suruma.woff?v=1.0.0-beta) format('woff'), url(fonts/Suruma.ttf?v=1.0.0-beta) format('truetype');
+	unicode-range: U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Keraleeyam */
+
+@font-face {
+	font-family: 'Keraleeyam';
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/Keraleeyam-Regular.woff2?v=2.0) format('woff2'), url(fonts/Keraleeyam-Regular.woff?v=2.0) format('woff'), url(fonts/Keraleeyam-Regular.ttf?v=2.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Uroob */
+
+@font-face {
+	font-family: 'Uroob';
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/Uroob-Regular.woff2?v=2.0) format('woff2'), url(fonts/Uroob-Regular.woff?v=2.0) format('woff'), url(fonts/Uroob-Regular.ttf?v=2.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Karumbi */
+
+@font-face {
+	font-family: 'Karumbi';
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/Karumbi-Regular.woff2?v=1.0) format('woff2'), url(fonts/Karumbi-Regular.woff?v=1.0) format('woff'), url(fonts/Karumbi-Regular.ttf?v=1.0) format('truetype');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+
+
+/* Meera Tamil */
+
+@font-face {
+	font-family: MeeraTamil;
+	src: url(fontstamil/MeeraTamil.woff2?v=1.0) format('woff2'), url(fontstamil/MeeraTamil.woff?v=1.0) format('woff'), url(fontstamil/MeeraTamil.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
